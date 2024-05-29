@@ -8,22 +8,28 @@ function Intro() {
         pb-6"
     >
       <h1
-        className="text-4xl md:text-7x1 dark:text-white
-            mb-1 md:mb-3 font-bold"
+        className="text-5xl md:text-7x1 dark:text-white
+            mb-1 md:mb-5 font-bold"
       >
         Alejandro Velásquez
       </h1>
       <p
-        className="text-base md:text-xl mb-3
+        className="text-base md:text-2xl mb-4
             font-medium"
       >
-        Software Developer and Data Scientist
+        Developer and Data Scientist
       </p>
       <p
-        className="text-sm max-w-xl mb-6
-            font-bold"
+        className="text-m max-w-xl mb-6
+            font-semi-bold"
       >
-        This is my bio
+        I am a developer and data scientist with experience in software and web
+        development for Colombian and American companies. I have experience and
+        knowledge in NodeJs, Angular, Vue and NestJS for both Frontend and
+        Backend development, and I am familiar with SQL and noSQL databases.
+        Also, I am a data scientist, with experience in Python, PyTorch,
+        PySpark, PowerBI and other tools to perform data analysis and develop AI
+        models.
       </p>
     </div>
   );
